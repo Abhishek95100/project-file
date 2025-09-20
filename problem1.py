@@ -1,4 +1,4 @@
-# दो numbers input लो और print करो कौन सा बड़ा है
+
 
 num1 = float(input("Enter the number:"))
 num2 = float(input("Enter the number:"))
